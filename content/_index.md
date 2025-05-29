@@ -3,7 +3,7 @@ title: SoluM 기술블로그
 toc: false
 ---
 
-This is the landing page.
+This is the landing page. hi im ryunkyung kim
 
 ## Explore
 
