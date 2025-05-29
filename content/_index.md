@@ -1,5 +1,5 @@
 ---
-title: My Site
+title: SoluM 기술블로그
 toc: false
 ---
 
