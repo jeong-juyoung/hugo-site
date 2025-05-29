@@ -1,9 +1,11 @@
 ---
-title: SoluM 기술블로그
+title: 솔루엠 기술블로그
 toc: false
 ---
 
-This is the landing page. hi im ryunkyung kim
+우리가 직접 겪고 해결한 기술 이야기, 솔루엠 개발팀이 전합니다.
+
+![solum 회사 전경](images/solum_company.jpg)
 
 ## Explore
 

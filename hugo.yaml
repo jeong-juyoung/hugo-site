@@ -1,5 +1,5 @@
 # Hugo configuration file
-title: 블로그
+title: 기술블로그
 
 # import hextra as module
 module:
@@ -48,8 +48,8 @@ params:
     displayLogo: true
     logo:
       path: images/solum.svg      
-      width: 40                      
-      height: 20     
+      width: 60                      
+      height: 40     
 
   footer:
     displayCopyright: false
